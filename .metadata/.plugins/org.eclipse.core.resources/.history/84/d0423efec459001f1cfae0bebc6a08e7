@@ -1,0 +1,12 @@
+package EXERCISE2;
+
+public class EXERCISE2 {
+
+	public static void main(String[] args) {
+		System.out.println(" Spanish    English");
+		System.out.println(" fruta   fruit");
+
+
+	}
+
+}

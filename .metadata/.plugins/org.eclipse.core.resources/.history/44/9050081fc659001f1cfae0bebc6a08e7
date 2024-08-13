@@ -1,0 +1,21 @@
+package EXERCISE2;
+
+public class EXERCISE2 {
+
+	public static void main(String[] args) {
+        String[] ingles = {"Hello", "Goodbye", "Please", "Thank you", "Fruit", "Color", "Book", "Pen", "House", "Friend"};
+        String[] espanol = {"Hola", "Adiós", "Por favor", "Gracias", "fruta", "Color", "Libro", "Bolígrafo", "Casa", "Amigo"};
+        
+       
+        System.out.printf("%-15s %-15s%n", "Inglés", "Español");
+        System.out.println("-----------------------------");
+        
+        
+        for (int i = 0; i < ingles.length; i++) {
+            System.out.printf("%-15s %-15s%n", ingles[i], espanol[i]);
+        }
+
+
+	}
+
+}

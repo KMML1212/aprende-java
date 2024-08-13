@@ -1,0 +1,15 @@
+package EXERCISE4;
+
+public class EXERCISE4 {
+
+	public static void main(String[] args) {
+		final double cambio= 166.386;
+		System.out.println("Ingrese ek valor de la hora:");
+	    double conversion = teclado.nextFloat();
+	    
+		
+				
+
+	}
+
+}

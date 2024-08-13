@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package EXERCISE;
+
+/**
+ * 
+ */
+public class EXERCISE1 {
+
+	public static void main(String[] args) {
+System.out.println("KARIL M");
+System.out.println("Cra 83 #39-127 COPACABANA");
+System.out.println("#3235844268");
+	}
+
+}

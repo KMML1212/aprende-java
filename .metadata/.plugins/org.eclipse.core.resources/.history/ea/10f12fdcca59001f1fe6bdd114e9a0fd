@@ -1,0 +1,13 @@
+package EXERCISE4;
+
+public class EXERCISE4 {
+
+	public static void main(String[] args) {
+    final double TIPO_CAMBIO = 166.386;
+    double euros = 100;  
+    double pesetas = euros * TIPO_CAMBIO;
+    System.out.println(euros + " euros son " + pesetas + " pesetas.");
+		    }
+	}
+
+
